@@ -1,7 +1,3 @@
-// class obstakel (met mogelijkheid verschillende hoogtes)
-// meerdere obstakels in array
-// for loop
-
 float X = 50;
 float Y = 300;
 float pSize = 50;
